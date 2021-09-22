@@ -14,7 +14,7 @@ Angry Birds adalah permainan puzzle video yang dikembangkan oleh pengembang game
 * Windows 10
 
 ### Installing
-* download game from [here](https://github.com/Fathursyafeei/Dilo-Tower-Defense/releases/download/v1.0/build-Dilo-TowerDefense-windows.zip)
+* download game from [here](https://github.com/Fathursyafeei/Angry-Birds/releases/download/v1.0/Build-AngryBirds.zip)
 
 
 ## Authors
